@@ -39,7 +39,7 @@ World!
 ```
 ## Task 1
 ### Complete the method ```printMyTriangle(int length)```
-This method prints an number triangle to the console. The triangle is constructed out of a given length `k`. `K` is defined as the length of the last line of the triangle.   
+This method prints a number triangle to the console. The triangle is constructed out of a given length `k`. `K` is defined as the length of the last line of the triangle.   
 
 -  Standard input: `k = 3`   
 ![image](https://github.com/taoboliao/YLID_PA1/assets/59666193/457a858e-952a-4622-bc85-6620c977be60)
