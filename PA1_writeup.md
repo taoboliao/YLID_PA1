@@ -205,7 +205,7 @@ This method prints an hourglass shape to the console. Each line of the hourglass
 ## Deadline
 This homework is due Nov. 10 Friday at 11:59 p.m. With the late due Nov. 11 Saturday 11:59 a.m.   
 # Turn in
-Send your .java file into the Wechat group "CS is light".   
+Send your .java file to two instructors privately by Wechat.   
 ![image](https://github.com/taoboliao/YLID_PA1/assets/59666193/b7941c3e-0cb6-47f8-9579-3dba8809c62f)
 
 
